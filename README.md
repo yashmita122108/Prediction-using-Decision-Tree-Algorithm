@@ -5,13 +5,13 @@ The objective revolves around developing a Decision Tree classifier that is not 
 Through the implementation of this Decision Tree classifier, we aim to demonstrate how it can be harnessed to solve real-world problems and offer insights into its decision-making process. Furthermore, we will showcase the importance of visualizing the decision tree, as it provides a clear and intuitive way to understand how the model reaches its predictions.
 
 #StepsCarriedOutIn Prediction using Decision Tree Algorithm
-# Step 1: Import the required libraries
-# Step 2: Extract data from source
-# Step 3 - Data Pre-processing
-# Step 4 - Data Visualization on comparing features
-# Step 5: Decision tree - Training the Model
-# Step 6: Model Evaluation
-# Step 7: Visualizing Decision Tree Classifier algorithm
+#Step 1: Import the required libraries
+#Step 2: Extract data from source
+#Step 3 - Data Pre-processing
+#Step 4 - Data Visualization on comparing features
+#Step 5: Decision tree - Training the Model
+#Step 6: Model Evaluation
+#Step 7: Visualizing Decision Tree Classifier algorithm
 
 #AnalysisObservation
 This task not only serves as an educational exploration of the Decision Tree algorithm but also as a practical solution to the broader challenge of making data-driven predictions. By the end of this endeavor, we will have a tool at our disposal that can take new data as input and predict the appropriate class, enhancing decision-making and facilitating more informed choices.
